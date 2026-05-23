@@ -110,3 +110,12 @@ If two requests arrive simultaneously for the last unit, only one will match the
 - Would add proper user authentication
 - Would add pagination for product listing at scale
 - Would add WebSocket or polling to auto-refresh stock on the product page when reservations expire
+
+## Images
+<img width="1867" height="946" alt="image" src="https://github.com/user-attachments/assets/6591392d-1e8b-4acf-b4e3-e3b3d0a88540" />
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/aa7b9ae7-9261-4a46-840e-e4821b6419af" />
+<img width="1903" height="872" alt="image" src="https://github.com/user-attachments/assets/16759906-df43-4b1f-aec8-fa312b040a5d" />
+<img width="1917" height="918" alt="image" src="https://github.com/user-attachments/assets/f3de1a8a-6fc4-49b9-9dff-09fd5d42dab7" />
+
+
+
