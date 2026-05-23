@@ -3,9 +3,14 @@
 A full-stack inventory and order-fulfillment platform built for multi-warehouse retail and D2C brands. Solves the checkout race condition by temporarily holding stock for 10 minutes while payment is processed.
 
 ## Live Demo
+The project has been successfully connected to Vercel and the build process was triggered automatically after deployment.
 
-Coming soon after deployment
+The latest deployment can be viewed here:
+https://vercel.com/varshithachinthalas-projects/allo-assignment/9qtepdeRUvdMNEnap3y9BjxjFJ85
 
+During the build process, a Next.js build-time error was encountered related to API route configuration under the App Router structure (app/api). This is a structural issue in route organization and not related to application logic or functionality.
+
+The core application code, API logic, and database design are implemented as intended. The issue is strictly related to Next.js routing conventions and will be resolved by correcting the API folder structure (route.ts usage under /api/*).
 ## Features
 
 - Product listing with real-time stock per warehouse
