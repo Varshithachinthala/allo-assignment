@@ -1,6 +1,11 @@
 # Allo Inventory Reservation System
-
 A full-stack inventory and order-fulfillment platform built for multi-warehouse retail and D2C brands. Solves the checkout race condition by temporarily holding stock for 10 minutes while payment is processed.
+
+## Live URL: https://allo-assignment-two.vercel.app
+
+The app is fully deployed and functional. You can browse products, reserve items, watch the 10-minute countdown, confirm or cancel purchases. The database is seeded with 4 products across 3 warehouses. No setup required — just open the link.
+
+## GitHub: https://github.com/Varshithachinthala/allo-assignment
 
 ## Features
 
@@ -14,19 +19,18 @@ A full-stack inventory and order-fulfillment platform built for multi-warehouse 
 
 ## Tech Stack
 
-- **Framework**: Next.js 16 (App Router)
-- **Language**: TypeScript
-- **Database**: PostgreSQL (Supabase)
-- **ORM**: Prisma
-- **Styling**: Tailwind CSS + shadcn/ui
+- Framework: Next.js 16 (App Router)
+- Language: TypeScript
+- Database: PostgreSQL (Supabase)
+- ORM: Prisma
+- Styling: Tailwind CSS + shadcn/ui
 
 ## How to Run Locally
 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/allo-assignment
-cd allo-assignment
+git clone https://github.com/Varshithachinthala/allo-assignment
 ```
 
 ### 2. Install dependencies
